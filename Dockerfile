@@ -1,4 +1,4 @@
-FROM python:3.7-slim
+FROM python:3.7.15-slim-buster
 
 USER root
 COPY . /megabot-hilca
@@ -22,4 +22,4 @@ RUN chgrp -R 0 /megabot-hilca \
     && pip install spacy \
     &&  python -m spacy download en_core_web_sm
 
-CMD ["gunicorn", "app:app"]
+CMD ["gunicorn", "app:app","--preload"]
