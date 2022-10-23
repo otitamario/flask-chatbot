@@ -2,11 +2,13 @@ from flask import Flask, render_template, request
 from chatterbot import ChatBot
 from chatterbot.trainers import ChatterBotCorpusTrainer
 from chatbot import chatbot
-app = Flask(__name__)
+from os import environ
 
+app = Flask(__name__)
 megabot=chatbot()
 megabot.init()
 megabot.training()
+    
 
 @app.route("/")
 def home():
@@ -19,4 +21,5 @@ def get_bot_response():
 
 
 if __name__ == "__main__":
-    app.run()
+    port=environ.get("PORT", 5000)
+    app.run(debug = True, host = '0.0.0.0', port=port)
