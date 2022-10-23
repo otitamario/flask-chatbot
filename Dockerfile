@@ -20,6 +20,7 @@ RUN chgrp -R 0 /megabot-hilca \
     && pip install ./ChatterBot \
     && pip install -r requirements.txt \
     && pip install spacy \
-    &&  python -m spacy download en_core_web_sm
+    &&  python -m spacy download en_core_web_sm \\
+    && pip install chatterbot_corpus
 
 CMD ["gunicorn", "app:app","--preload"]

@@ -1,5 +1,6 @@
 from chatterbot import ChatBot
-from chatterbot.trainers import ListTrainer
+#from chatterbot.trainers import ListTrainer
+from chatterbot.trainers import ChatterBotCorpusTrainer
 
 class ENGSM:
     ISO_639_1 = 'en_core_web_sm'
@@ -31,8 +32,18 @@ class chatbot:
         return self.bot.get_response(data)
 
     def training(self):
-        self.conversa = ListTrainer(self.bot)
-        self.conversa.train(self.training_data)
+        #self.conversa = ListTrainer(self.bot)
+        #self.conversa.train(self.training_data)
+        self.conversa = ChatterBotCorpusTrainer(self.bot)
+        self.conversa.train(
+            self.file_training
+        )
+        
+        self.conversa.train("chatterbot.corpus.portuguese",
+            "chatterbot.corpus.portuguese.greetings",
+            "chatterbot.corpus.portuguese.conversations"
+        )
+    
 
 
         
