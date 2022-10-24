@@ -1,0 +1,1144 @@
+{
+    "erros": [
+        {
+            "Pergunta:": "De que forma eu consigo arma de fogo?",
+            "resp_bot": "Ao adquirir uma arma de fogo o cidadão devera apresentar comprovante de capacidade técnica e aptidão psicológica para o manuseio de arma de fogo.",
+            "resp_correta": "Para aquisição de arma de fogo deve ser emitido o requerimento de aquisição no formulário eletrônico disponibilizado, escolher a categoria. É a autorização, concedida pela Polícia Federal, aos cidadãos brasileiros e estrangeiros permanentes que preencham os seguintes requisitos: ter idade mínima de 25 (vinte e cinco) anos; declarar a efetiva necessidade de possuir arma de fogo; comprovar idoneidade, com a apresentação de certidões negativas de antecedentes criminais fornecidas pela Justiça Federal, Estadual, Militar e Eleitoral e de não estar respondendo a inquérito policial ou a processo criminal, que poderão ser fornecidas por meios eletrônicos; apresentar documento comprobatório de ocupação lícita e de residência certa."
+        },
+        {
+            "Pergunta:": "Como formalizar a aquisição de arma de fogo?",
+            "resp_bot": "Após a aquisição da arma de fogo, de posse da autorização de aquisição de arma de fogo impressa, deve ser requerido o registro da arma de fogo no prazo de 15 (quinze) dias, mediante o preenchimento do requerimento correspondente, conforme orientações constantes do serviço REGISTRAR ARMA DE FOGO.",
+            "resp_correta": "A aquisição da arma de fogo é formalizada ao ser deferido o requerimento, o interessado deverá imprimir a autorização de aquisição em link disponível na mesma página de acompanhamento."
+        },
+        {
+            "Pergunta:": "De que forma a aquisição da arma de fogo é formalizada?",
+            "resp_bot": "Após a aquisição da arma de fogo, de posse da autorização de aquisição de arma de fogo impressa, deve ser requerido o registro da arma de fogo no prazo de 15 (quinze) dias, mediante o preenchimento do requerimento correspondente, conforme orientações constantes do serviço REGISTRAR ARMA DE FOGO.",
+            "resp_correta": "A aquisição da arma de fogo é formalizada ao ser deferido o requerimento, o interessado deverá imprimir a autorização de aquisição em link disponível na mesma página de acompanhamento."
+        },
+        {
+            "Pergunta:": "O que fazer depois de adquirir arma de fogo?",
+            "resp_bot": "O prazo para registro da arma de fogo é de 15 (quinze) dias após a emissão de autorização de porte de arma de fogo.",
+            "resp_correta": "Após a aquisição da arma de fogo, de posse da autorização de aquisição de arma de fogo impressa, deve ser requerido o registro da arma de fogo no prazo de 15 (quinze) dias, mediante o preenchimento do requerimento correspondente, conforme orientações constantes do serviço REGISTRAR ARMA DE FOGO."
+        },
+        {
+            "Pergunta:": "Depois de conseguir a arma de fogo qual há mais exigência a ser cumprida?",
+            "resp_bot": "Ao adquirir uma arma de fogo o cidadão devera apresentar comprovante de capacidade técnica e aptidão psicológica para o manuseio de arma de fogo.",
+            "resp_correta": "Após a aquisição da arma de fogo, de posse da autorização de aquisição de arma de fogo impressa, deve ser requerido o registro da arma de fogo no prazo de 15 (quinze) dias, mediante o preenchimento do requerimento correspondente, conforme orientações constantes do serviço REGISTRAR ARMA DE FOGO."
+        },
+        {
+            "Pergunta:": "No que implica o registro de arma de fogo?",
+            "resp_bot": "Registrar uma arma de fogo é a expedição do Certificado de Registro de Arma de Fogo no Sistema Nacional de Armas da Polícia Federal, que autoriza o seu proprietário a manter a arma de fogo exclusivamente no interior de sua residência ou domicílio, ou no seu local de trabalho, desde que seja ele o titular ou o responsável legal pelo estabelecimento ou empresa.",
+            "resp_correta": "Registrar uma arma de fogo é a expedição do Certificado de Registro de Arma de Fogo no Sistema Nacional de Armas da Polícia Federal, que autoriza o seu proprietário a manter a arma de fogo exclusivamente no interior de sua residência ou domicílio, ou no seu local de trabalho, desde que seja ele o titular ou o responsável legal pelo estabelecimento ou empresa."
+        },
+        {
+            "Pergunta:": "O que significa registrar uma arma de fogo?",
+            "resp_bot": "Registrar uma arma de fogo é a expedição do Certificado de Registro de Arma de Fogo no Sistema Nacional de Armas da Polícia Federal, que autoriza o seu proprietário a manter a arma de fogo exclusivamente no interior de sua residência ou domicílio, ou no seu local de trabalho, desde que seja ele o titular ou o responsável legal pelo estabelecimento ou empresa.",
+            "resp_correta": "Registrar uma arma de fogo é a expedição do Certificado de Registro de Arma de Fogo no Sistema Nacional de Armas da Polícia Federal, que autoriza o seu proprietário a manter a arma de fogo exclusivamente no interior de sua residência ou domicílio, ou no seu local de trabalho, desde que seja ele o titular ou o responsável legal pelo estabelecimento ou empresa."
+        },
+        {
+            "Pergunta:": "Qual a pena para ter porte de arma sem registro federal?",
+            "resp_bot": "Ter o porte de uma arma de fogo sem o registro federal válido é crime, passível de pena de detenção de 1 a 3 anos e multa (art. 12 da Lei n.º 10.826/03). Portanto, deve-se proceder à renovação do registro ou entregar, voluntariamente, sua arma de fogo na Campanha do Desarmamento, não sofrendo nenhuma punição (art. 31 e 32 da Lei n.º 10.826/03).",
+            "resp_correta": "Ter o porte de uma arma de fogo sem o registro federal válido é crime, passível de pena de detenção de 1 a 3 anos e multa (art. 12 da Lei n.º 10.826/03). Portanto, deve-se proceder à renovação do registro ou entregar, voluntariamente, sua arma de fogo na Campanha do Desarmamento, não sofrendo nenhuma punição (art. 31 e 32 da Lei n.º 10.826/03)."
+        },
+        {
+            "Pergunta:": "O que acontece se eu tiver porte de arma sem registro federal?",
+            "resp_bot": "Ter o porte de uma arma de fogo sem o registro federal válido é crime, passível de pena de detenção de 1 a 3 anos e multa (art. 12 da Lei n.º 10.826/03). Portanto, deve-se proceder à renovação do registro ou entregar, voluntariamente, sua arma de fogo na Campanha do Desarmamento, não sofrendo nenhuma punição (art. 31 e 32 da Lei n.º 10.826/03).",
+            "resp_correta": "Ter o porte de uma arma de fogo sem o registro federal válido é crime, passível de pena de detenção de 1 a 3 anos e multa (art. 12 da Lei n.º 10.826/03). Portanto, deve-se proceder à renovação do registro ou entregar, voluntariamente, sua arma de fogo na Campanha do Desarmamento, não sofrendo nenhuma punição (art. 31 e 32 da Lei n.º 10.826/03)."
+        },
+        {
+            "Pergunta:": "Em que Instituição brasileira pode ser encontrado o serviço de regularização migratória?",
+            "resp_bot": "No Departamento de Policia Federal (DPF).",
+            "resp_correta": "No Departamento de Policia Federal (DPF)"
+        },
+        {
+            "Pergunta:": "Onde devo procurar o serviço de regularização migratória?",
+            "resp_bot": "No Departamento de Policia Federal (DPF).",
+            "resp_correta": "No Departamento de Policia Federal (DPF)"
+        },
+        {
+            "Pergunta:": "Onde encontar o serviço de regularização migratória quando não há Departamento da policia federal no município?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Nas Superintendências e Delegacias da Policia Federal, que divulga o endereço e contato de cada unidade de atendimento em seu site oficial, por região do país."
+        },
+        {
+            "Pergunta:": "Em que lugar posso buscar o serviço de regularização migratória quando não há Departamento da policia federal no município?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Nas Superintendências e Delegacias da Policia Federal, que divulga o endereço e contato de cada unidade de atendimento em seu site oficial, por região do país."
+        },
+        {
+            "Pergunta:": "Para quem é importante a Carteira de Registro Nacional Migratório (CRNM)?",
+            "resp_bot": "O imigrante, com visto temporário; a quem tem autorização de residencia deferida; ao refugiado; e ao apátrida ou esilado, já reconhecidos pelos órgãos.",
+            "resp_correta": "Para o imigrante, com visto temporário; a quem tem autorização de residencia deferida; ao refugiado; e ao apátrida ou esilado, já reconhecidos pelos órgãos."
+        },
+        {
+            "Pergunta:": "Para que existe a Carteira de Registro Nacional Migratório (CRNM)?",
+            "resp_bot": "O imigrante, com visto temporário; a quem tem autorização de residencia deferida; ao refugiado; e ao apátrida ou esilado, já reconhecidos pelos órgãos.",
+            "resp_correta": "Para o imigrante, com visto temporário; a quem tem autorização de residencia deferida; ao refugiado; e ao apátrida ou esilado, já reconhecidos pelos órgãos."
+        },
+        {
+            "Pergunta:": "Como é possivel identificar um imigrante sem a Carteira de Registro Nacional Migratório?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O imigrante apresentará o protocolo recebido, quando da solicitação da carteira, acompanhado do documento de viagem ou de outro documento de identificação estabelecido em ato do Ministro de Estado do Ministério da Justiça e Segurança Pública."
+        },
+        {
+            "Pergunta:": "Que tipo de documento é o passaporte?",
+            "resp_bot": "O passaporte normalmente estará disponível para entrega cerca de 6 (seis) dias úteis após o atendimento presencial de solicitação. Esse prazo pode variar de acordo com a localização.",
+            "resp_correta": "O passaporte é um Documento de Viagem que identifica o viajante em outros países. Nele são registradas entradas e saídas, vistos e autorizações."
+        },
+        {
+            "Pergunta:": "Para que serve o passaporte?",
+            "resp_bot": "O Decreto Nº 1.983, de 14 de agosto de 1996, institui, no âmbito do Departamento de Polícia , o Programa de Modernização, Agilização, Aprimoramento e Segurança da Fiscalização do Tráfego Internacional e do Passaporte Brasileiro (PROMASP), e aprova o Regulamento de Documentos de Viagem.",
+            "resp_correta": "O passaporte é um Documento de Viagem que identifica o viajante em outros países. Nele são registradas entradas e saídas, vistos e autorizações."
+        },
+        {
+            "Pergunta:": "O que é preciso para conseguir um passaporte?",
+            "resp_bot": "Ao adquirir uma arma de fogo o cidadão devera apresentar comprovante de capacidade técnica e aptidão psicológica para o manuseio de arma de fogo.",
+            "resp_correta": "Para o solicitante brasileiro: deverá ter feito alistamento eleitoral; ter votado(ou justificado)na última eleição;estar quite com o serviço militar obrigatório;reunir documentos necessários;não ser procurado pela justiça."
+        },
+        {
+            "Pergunta:": "Qual o preço para conseguir um passaporte?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Taxa comum R$ 257,25; Taxa em casos de urgência e emergência R$ 334,42; Taxa majorada(para renovação de passaporte quando o anterior não é apresentado e não existe ocorrência criminal) R$ 514,50."
+        },
+        {
+            "Pergunta:": "Quanto devo pagar para tirar o passaporte?",
+            "resp_bot": "O passaporte normalmente estará disponível para entrega cerca de 6 (seis) dias úteis após o atendimento presencial de solicitação. Esse prazo pode variar de acordo com a localização.",
+            "resp_correta": "Taxa comum R$ 257,25; Taxa em casos de urgência e emergência R$ 334,42; Taxa majorada(para renovação de passaporte quando o anterior não é apresentado e não existe ocorrência criminal) R$ 514,50."
+        },
+        {
+            "Pergunta:": "Qual a lei que regulariza o passaporte?",
+            "resp_bot": "Para o solicitante brasileiro: deverá ter feito alistamento eleitoral; ter votado(ou justificado)na última eleição;estar quite com o serviço militar obrigatório;reunir documentos necessários;não ser procurado pela justiça.",
+            "resp_correta": "O Decreto Nº 1.983, de 14 de agosto de 1996, institui, no âmbito do Departamento de Polícia , o Programa de Modernização, Agilização, Aprimoramento e Segurança da Fiscalização do Tráfego Internacional e do Passaporte Brasileiro (PROMASP), e aprova o Regulamento de Documentos de Viagem."
+        },
+        {
+            "Pergunta:": "Qual o órgão competente para expedir o passaporte?",
+            "resp_bot": "O passaporte normalmente estará disponível para entrega cerca de 6 (seis) dias úteis após o atendimento presencial de solicitação. Esse prazo pode variar de acordo com a localização.",
+            "resp_correta": "O Departamento de Policia Federal do Ministério da Justiça."
+        },
+        {
+            "Pergunta:": "Onde devo ir para para expedir o passaporte?",
+            "resp_bot": "No Departamento de Policia Federal do Ministério da Justiça.",
+            "resp_correta": "O Departamento de Policia Federal do Ministério da Justiça."
+        },
+        {
+            "Pergunta:": "O passaporte tem validade de quantos anos?",
+            "resp_bot": "O visto temporário poderá ser concedido com prazo de validade até 1 (um) ano.",
+            "resp_correta": "O prazo de validade do passaporte depende da idade do titular, apartir de 18 anos o prazo é de 10 (dez) anos."
+        },
+        {
+            "Pergunta:": "Quais documentos são exigidos para obter o passaporte?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Documento de identificação com foto; passaporte anterior , no caso de renovação; fotografia facial recente , tamanho 5X7, colorida; comprovante da situação eleitoral regular; preencher formulário solicitação de passaporte."
+        },
+        {
+            "Pergunta:": "Que documentos devo apresentar para conseguir o passaporte?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Documento de identificação com foto; passaporte anterior , no caso de renovação; fotografia facial recente , tamanho 5X7, colorida; comprovante da situação eleitoral regular; preencher formulário solicitação de passaporte."
+        },
+        {
+            "Pergunta:": "É possivel usar outro passaporte se tiver dupla nacionalidade?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Sim, o brasileiro com dupla nacionalidade pode usar passaporte de outra nacionalidade, para entrar ou sair do Brasil."
+        },
+        {
+            "Pergunta:": "Como é o procedimento para adquirir arma de fogo?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Para aquisição de arma de fogo deve ser emitido o requerimento de aquisição no formulário eletrônico disponibilizado, escolher a categoria. É a autorização, concedida pela Polícia Federal, aos cidadãos brasileiros e estrangeiros permanentes que preencham os seguintes requisitos: ter idade mínima de 25 (vinte e cinco) anos; declarar a efetiva necessidade de possuir arma de fogo; comprovar idoneidade, com a apresentação de certidões negativas de antecedentes criminais fornecidas pela Justiça Federal, Estadual, Militar e Eleitoral e de não estar respondendo a inquérito policial ou a processo criminal, que poderão ser fornecidas por meios eletrônicos; apresentar documento comprobatório de ocupação lícita e de residência certa."
+        },
+        {
+            "Pergunta:": "De que forma eu consigo arma de fogo?",
+            "resp_bot": "O prazo para registro da arma de fogo é de 15 (quinze) dias após a emissão de autorização de porte de arma de fogo.",
+            "resp_correta": "Para aquisição de arma de fogo deve ser emitido o requerimento de aquisição no formulário eletrônico disponibilizado, escolher a categoria. É a autorização, concedida pela Polícia Federal, aos cidadãos brasileiros e estrangeiros permanentes que preencham os seguintes requisitos: ter idade mínima de 25 (vinte e cinco) anos; declarar a efetiva necessidade de possuir arma de fogo; comprovar idoneidade, com a apresentação de certidões negativas de antecedentes criminais fornecidas pela Justiça Federal, Estadual, Militar e Eleitoral e de não estar respondendo a inquérito policial ou a processo criminal, que poderão ser fornecidas por meios eletrônicos; apresentar documento comprobatório de ocupação lícita e de residência certa."
+        },
+        {
+            "Pergunta:": "O que deve ser apresentado pelo cidadão ao adquirir uma arma de fogo?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Ao adquirir uma arma de fogo o cidadão devera apresentar comprovante de capacidade técnica e aptidão psicológica para o manuseio de arma de fogo."
+        },
+        {
+            "Pergunta:": "O que é exigido para conseguir arma de fogo?",
+            "resp_bot": "Para aquisição de arma de fogo deve ser emitido o requerimento de aquisição no formulário eletrônico disponibilizado, escolher a categoria. É a autorização, concedida pela Polícia Federal, aos cidadãos brasileiros e estrangeiros permanentes que preencham os seguintes requisitos: ter idade mínima de 25 (vinte e cinco) anos; declarar a efetiva necessidade de possuir arma de fogo; comprovar idoneidade, com a apresentação de certidões negativas de antecedentes criminais fornecidas pela Justiça Federal, Estadual, Militar e Eleitoral e de não estar respondendo a inquérito policial ou a processo criminal, que poderão ser fornecidas por meios eletrônicos; apresentar documento comprobatório de ocupação lícita e de residência certa.",
+            "resp_correta": "Ao adquirir uma arma de fogo o cidadão devera apresentar comprovante de capacidade técnica e aptidão psicológica para o manuseio de arma de fogo."
+        },
+        {
+            "Pergunta:": "Como formalizar a aquisição de arma de fogo?",
+            "resp_bot": "Após a aquisição da arma de fogo, de posse da autorização de aquisição de arma de fogo impressa, deve ser requerido o registro da arma de fogo no prazo de 15 (quinze) dias, mediante o preenchimento do requerimento correspondente, conforme orientações constantes do serviço REGISTRAR ARMA DE FOGO.",
+            "resp_correta": "A aquisição da arma de fogo é formalizada ao ser deferido o requerimento, o interessado deverá imprimir a autorização de aquisição em link disponível na mesma página de acompanhamento."
+        },
+        {
+            "Pergunta:": "De que forma a aquisição da arma de fogo é formalizada?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "A aquisição da arma de fogo é formalizada ao ser deferido o requerimento, o interessado deverá imprimir a autorização de aquisição em link disponível na mesma página de acompanhamento."
+        },
+        {
+            "Pergunta:": "O que fazer depois de adquirir arma de fogo?",
+            "resp_bot": "O prazo para registro da arma de fogo é de 15 (quinze) dias após a emissão de autorização de porte de arma de fogo.",
+            "resp_correta": "Após a aquisição da arma de fogo, de posse da autorização de aquisição de arma de fogo impressa, deve ser requerido o registro da arma de fogo no prazo de 15 (quinze) dias, mediante o preenchimento do requerimento correspondente, conforme orientações constantes do serviço REGISTRAR ARMA DE FOGO."
+        },
+        {
+            "Pergunta:": "Depois de conseguir a arma de fogo qual há mais exigência a ser cumprida?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Após a aquisição da arma de fogo, de posse da autorização de aquisição de arma de fogo impressa, deve ser requerido o registro da arma de fogo no prazo de 15 (quinze) dias, mediante o preenchimento do requerimento correspondente, conforme orientações constantes do serviço REGISTRAR ARMA DE FOGO."
+        },
+        {
+            "Pergunta:": "No que implica o registro de arma de fogo?",
+            "resp_bot": "Registrar uma arma de fogo é a expedição do Certificado de Registro de Arma de Fogo no Sistema Nacional de Armas da Polícia Federal, que autoriza o seu proprietário a manter a arma de fogo exclusivamente no interior de sua residência ou domicílio, ou no seu local de trabalho, desde que seja ele o titular ou o responsável legal pelo estabelecimento ou empresa.",
+            "resp_correta": "Registrar uma arma de fogo é a expedição do Certificado de Registro de Arma de Fogo no Sistema Nacional de Armas da Polícia Federal, que autoriza o seu proprietário a manter a arma de fogo exclusivamente no interior de sua residência ou domicílio, ou no seu local de trabalho, desde que seja ele o titular ou o responsável legal pelo estabelecimento ou empresa."
+        },
+        {
+            "Pergunta:": "O que significa registrar uma arma de fogo?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Registrar uma arma de fogo é a expedição do Certificado de Registro de Arma de Fogo no Sistema Nacional de Armas da Polícia Federal, que autoriza o seu proprietário a manter a arma de fogo exclusivamente no interior de sua residência ou domicílio, ou no seu local de trabalho, desde que seja ele o titular ou o responsável legal pelo estabelecimento ou empresa."
+        },
+        {
+            "Pergunta:": "Qual a pena para ter porte de arma sem registro federal?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Ter o porte de uma arma de fogo sem o registro federal válido é crime, passível de pena de detenção de 1 a 3 anos e multa (art. 12 da Lei n.º 10.826/03). Portanto, deve-se proceder à renovação do registro ou entregar, voluntariamente, sua arma de fogo na Campanha do Desarmamento, não sofrendo nenhuma punição (art. 31 e 32 da Lei n.º 10.826/03)."
+        },
+        {
+            "Pergunta:": "O que acontece se eu tiver porte de arma sem registro federal?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Ter o porte de uma arma de fogo sem o registro federal válido é crime, passível de pena de detenção de 1 a 3 anos e multa (art. 12 da Lei n.º 10.826/03). Portanto, deve-se proceder à renovação do registro ou entregar, voluntariamente, sua arma de fogo na Campanha do Desarmamento, não sofrendo nenhuma punição (art. 31 e 32 da Lei n.º 10.826/03)."
+        },
+        {
+            "Pergunta:": "Qual o prazo para proceder o registro da arma de fogo?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O prazo para registro da arma de fogo é de 15 (quinze) dias após a emissão de autorização de porte de arma de fogo."
+        },
+        {
+            "Pergunta:": "Em quanto tempo eu consigo registrar arma de fogo?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O prazo para registro da arma de fogo é de 15 (quinze) dias após a emissão de autorização de porte de arma de fogo."
+        },
+        {
+            "Pergunta:": "Em que Instituição brasileira pode ser encontrado o serviço de regularização migratória?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "No Departamento de Policia Federal (DPF)"
+        },
+        {
+            "Pergunta:": "Onde devo procurar o serviço de regularização migratória?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "No Departamento de Policia Federal (DPF)"
+        },
+        {
+            "Pergunta:": "Onde é realizado o serviço de regularização migratória quando não há Departamento da policia federal no município?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Nas Superintendências e Delegacias da Policia Federal, que divulga o endereço e contato de cada unidade de atendimento em seu site oficial, por região do país."
+        },
+        {
+            "Pergunta:": "Onde encontar o serviço de regularização migratória quando não há Departamento da policia federal no município?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Nas Superintendências e Delegacias da Policia Federal, que divulga o endereço e contato de cada unidade de atendimento em seu site oficial, por região do país."
+        },
+        {
+            "Pergunta:": "Em que lugar posso buscar o serviço de regularização migratória quando não há Departamento da policia federal no município?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Nas Superintendências e Delegacias da Policia Federal, que divulga o endereço e contato de cada unidade de atendimento em seu site oficial, por região do país."
+        },
+        {
+            "Pergunta:": "De que forma eu posso ter o atendimento para migração no Brasil?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Os atendimentos são feitos por agendamento, por sistema ou por e-mail, na Unidade onde o imigrante for domiciliado."
+        },
+        {
+            "Pergunta:": "Qual o prazo para regularização migratória dos imigrantes?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O prazo para regularização migratória é de 1 (um) ano, a contar da data de emissão do visto."
+        },
+        {
+            "Pergunta:": "Quanto preciso esperar para regularização migratória dos imigrantes?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O prazo para regularização migratória é de 1 (um) ano, a contar da data de emissão do visto."
+        },
+        {
+            "Pergunta:": "O prazo de validade do visto é sempre igual para todos os imigrantes?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Nos casos em que houver reciprocidade de tratamento, em termos definidos por comunicação diplomática o visto de visita poderá ter prazo de até 10 (dez) anos."
+        },
+        {
+            "Pergunta:": "Quanto tempo dura o visto temporário?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O visto temporário poderá ser concedido com prazo de validade até 1 (um) ano."
+        },
+        {
+            "Pergunta:": "Em quanto tempo acaba a validade do visto temporário?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O visto temporário poderá ser concedido com prazo de validade até 1 (um) ano."
+        },
+        {
+            "Pergunta:": "Para quem é importante a Carteira de Registro Nacional Migratório (CRNM)?",
+            "resp_bot": "O imigrante, com visto temporário; a quem tem autorização de residencia deferida; ao refugiado; e ao apátrida ou esilado, já reconhecidos pelos órgãos.",
+            "resp_correta": "Para o imigrante, com visto temporário; a quem tem autorização de residencia deferida; ao refugiado; e ao apátrida ou esilado, já reconhecidos pelos órgãos."
+        },
+        {
+            "Pergunta:": "Para que existe a Carteira de Registro Nacional Migratório (CRNM)?",
+            "resp_bot": "O imigrante, com visto temporário; a quem tem autorização de residencia deferida; ao refugiado; e ao apátrida ou esilado, já reconhecidos pelos órgãos.",
+            "resp_correta": "Para o imigrante, com visto temporário; a quem tem autorização de residencia deferida; ao refugiado; e ao apátrida ou esilado, já reconhecidos pelos órgãos."
+        },
+        {
+            "Pergunta:": "Como identificar um imigrante que não portar a Carteira de Registro Nacional Migratório?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O imigrante apresentará o protocolo recebido, quando da solicitação da carteira, acompanhado do documento de viagem ou de outro documento de identificação estabelecido em ato do Ministro de Estado do Ministério da Justiça e Segurança Pública."
+        },
+        {
+            "Pergunta:": "Como é possivel identificar um imigrante sem a Carteira de Registro Nacional Migratório?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O imigrante apresentará o protocolo recebido, quando da solicitação da carteira, acompanhado do documento de viagem ou de outro documento de identificação estabelecido em ato do Ministro de Estado do Ministério da Justiça e Segurança Pública."
+        },
+        {
+            "Pergunta:": "Como é expedida a Carteira de Registro Nacional Migratório?",
+            "resp_bot": "O imigrante devidamente registrado em sistema proprio da Policia Federal, que será identificado por dados biográficos e biométricos e receberá um número único de Registro Nacional Migratório.",
+            "resp_correta": "A carteira de Registro Nacional Migratório poderá ser expedida em meio eletrônico e documento em suporte físico."
+        },
+        {
+            "Pergunta:": "Precisa de algum documento para realizar o registro de Imigrante com visto temporário?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Apresentar requerimento próprio; uma foto 3X4;declaração de endereço eletrônico, acompanhada do comprovante de residência; documento de viagem válido, ou documento que comprove a identidade e a nacionalidade; formulário original do visto; e comprovante de pagamento da taxa de emissão da CRNM."
+        },
+        {
+            "Pergunta:": "Que tipo de documento é o passaporte?",
+            "resp_bot": "Taxa comum R$ 257,25; Taxa em casos de urgência e emergência R$ 334,42; Taxa majorada(para renovação de passaporte quando o anterior não é apresentado e não existe ocorrência criminal) R$ 514,50.",
+            "resp_correta": "O passaporte é um Documento de Viagem que identifica o viajante em outros países. Nele são registradas entradas e saídas, vistos e autorizações."
+        },
+        {
+            "Pergunta:": "Para que serve o passaporte?",
+            "resp_bot": "Para o solicitante brasileiro: deverá ter feito alistamento eleitoral; ter votado(ou justificado)na última eleição;estar quite com o serviço militar obrigatório;reunir documentos necessários;não ser procurado pela justiça.",
+            "resp_correta": "O passaporte é um Documento de Viagem que identifica o viajante em outros países. Nele são registradas entradas e saídas, vistos e autorizações."
+        },
+        {
+            "Pergunta:": "O que é preciso para conseguir um passaporte?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Para o solicitante brasileiro: deverá ter feito alistamento eleitoral; ter votado(ou justificado)na última eleição;estar quite com o serviço militar obrigatório;reunir documentos necessários;não ser procurado pela justiça."
+        },
+        {
+            "Pergunta:": "Que documentos são exigidos para obter passaporte?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Para o solicitante brasileiro: deverá ter feito alistamento eleitoral; ter votado(ou justificado)na última eleição;estar quite com o serviço militar obrigatório;reunir documentos necessários;não ser procurado pela justiça."
+        },
+        {
+            "Pergunta:": "Qual o preço para conseguir um passaporte?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Taxa comum R$ 257,25; Taxa em casos de urgência e emergência R$ 334,42; Taxa majorada(para renovação de passaporte quando o anterior não é apresentado e não existe ocorrência criminal) R$ 514,50."
+        },
+        {
+            "Pergunta:": "Quanto devo pagar para tirar o passaporte?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Taxa comum R$ 257,25; Taxa em casos de urgência e emergência R$ 334,42; Taxa majorada(para renovação de passaporte quando o anterior não é apresentado e não existe ocorrência criminal) R$ 514,50."
+        },
+        {
+            "Pergunta:": "O que regulamenta o passaporte?",
+            "resp_bot": "Para o solicitante brasileiro: deverá ter feito alistamento eleitoral; ter votado(ou justificado)na última eleição;estar quite com o serviço militar obrigatório;reunir documentos necessários;não ser procurado pela justiça.",
+            "resp_correta": "O Decreto Nº 1.983, de 14 de agosto de 1996, institui, no âmbito do Departamento de Polícia , o Programa de Modernização, Agilização, Aprimoramento e Segurança da Fiscalização do Tráfego Internacional e do Passaporte Brasileiro (PROMASP), e aprova o Regulamento de Documentos de Viagem."
+        },
+        {
+            "Pergunta:": "Qual a lei que regulariza o passaporte?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O Decreto Nº 1.983, de 14 de agosto de 1996, institui, no âmbito do Departamento de Polícia , o Programa de Modernização, Agilização, Aprimoramento e Segurança da Fiscalização do Tráfego Internacional e do Passaporte Brasileiro (PROMASP), e aprova o Regulamento de Documentos de Viagem."
+        },
+        {
+            "Pergunta:": "Qual o órgão competente para expedir o passaporte?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O Departamento de Policia Federal do Ministério da Justiça."
+        },
+        {
+            "Pergunta:": "Onde devo ir para para expedir o passaporte?",
+            "resp_bot": "No Departamento de Policia Federal do Ministério da Justiça.",
+            "resp_correta": "O Departamento de Policia Federal do Ministério da Justiça."
+        },
+        {
+            "Pergunta:": "O passaporte tem validade de quantos anos?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O prazo de validade do passaporte depende da idade do titular, apartir de 18 anos o prazo é de 10 (dez) anos."
+        },
+        {
+            "Pergunta:": "Quanto tempo demora para o passaporte ser emitido?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O passaporte normalmente estará disponível para entrega cerca de 6 (seis) dias úteis após o atendimento presencial de solicitação. Esse prazo pode variar de acordo com a localização."
+        },
+        {
+            "Pergunta:": "Qual é o tempo para entrega do passaporte após a solicitação?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O passaporte normalmente estará disponível para entrega cerca de 6 (seis) dias úteis após o atendimento presencial de solicitação. Esse prazo pode variar de acordo com a localização."
+        },
+        {
+            "Pergunta:": "Quais documentos são exigidos para obter o passaporte?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Documento de identificação com foto; passaporte anterior , no caso de renovação; fotografia facial recente , tamanho 5X7, colorida; comprovante da situação eleitoral regular; preencher formulário solicitação de passaporte."
+        },
+        {
+            "Pergunta:": "Que documentos devo apresentar para conseguir o passaporte?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Documento de identificação com foto; passaporte anterior , no caso de renovação; fotografia facial recente , tamanho 5X7, colorida; comprovante da situação eleitoral regular; preencher formulário solicitação de passaporte."
+        },
+        {
+            "Pergunta:": "Preciso de passaporte para ir para outro países do MERCOSUL?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Sim, é possivel viajar aos países do MERCOSUL sem passaporte, desde que o viajante esteja em viagem a turismo."
+        },
+        {
+            "Pergunta:": "Eu consigo ir para outro país do MERCOSUL sem passaporte?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Sim, é possivel viajar aos países do MERCOSUL sem passaporte, desde que o viajante esteja em viagem a turismo."
+        },
+        {
+            "Pergunta:": "Posso usar outro passaporte se tiver dupla nacionalidade?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Sim, o brasileiro com dupla nacionalidade pode usar passaporte de outra nacionalidade, para entrar ou sair do Brasil."
+        },
+        {
+            "Pergunta:": "É possivel usar outro passaporte se tiver dupla nacionalidade?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Sim, o brasileiro com dupla nacionalidade pode usar passaporte de outra nacionalidade, para entrar ou sair do Brasil."
+        },
+        {
+            "Pergunta:": "Como é o procedimento para adquirir arma de fogo?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Para aquisição de arma de fogo deve ser emitido o requerimento de aquisição no formulário eletrônico disponibilizado, escolher a categoria. É a autorização, concedida pela Polícia Federal, aos cidadãos brasileiros e estrangeiros permanentes que preencham os seguintes requisitos: ter idade mínima de 25 (vinte e cinco) anos; declarar a efetiva necessidade de possuir arma de fogo; comprovar idoneidade, com a apresentação de certidões negativas de antecedentes criminais fornecidas pela Justiça Federal, Estadual, Militar e Eleitoral e de não estar respondendo a inquérito policial ou a processo criminal, que poderão ser fornecidas por meios eletrônicos; apresentar documento comprobatório de ocupação lícita e de residência certa."
+        },
+        {
+            "Pergunta:": "De que forma eu consigo arma de fogo?",
+            "resp_bot": "O prazo para registro da arma de fogo é de 15 (quinze) dias após a emissão de autorização de porte de arma de fogo.",
+            "resp_correta": "Para aquisição de arma de fogo deve ser emitido o requerimento de aquisição no formulário eletrônico disponibilizado, escolher a categoria. É a autorização, concedida pela Polícia Federal, aos cidadãos brasileiros e estrangeiros permanentes que preencham os seguintes requisitos: ter idade mínima de 25 (vinte e cinco) anos; declarar a efetiva necessidade de possuir arma de fogo; comprovar idoneidade, com a apresentação de certidões negativas de antecedentes criminais fornecidas pela Justiça Federal, Estadual, Militar e Eleitoral e de não estar respondendo a inquérito policial ou a processo criminal, que poderão ser fornecidas por meios eletrônicos; apresentar documento comprobatório de ocupação lícita e de residência certa."
+        },
+        {
+            "Pergunta:": "O que deve ser apresentado pelo cidadão ao adquirir uma arma de fogo?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Ao adquirir uma arma de fogo o cidadão devera apresentar comprovante de capacidade técnica e aptidão psicológica para o manuseio de arma de fogo."
+        },
+        {
+            "Pergunta:": "O que é exigido para conseguir arma de fogo?",
+            "resp_bot": "Para aquisição de arma de fogo deve ser emitido o requerimento de aquisição no formulário eletrônico disponibilizado, escolher a categoria. É a autorização, concedida pela Polícia Federal, aos cidadãos brasileiros e estrangeiros permanentes que preencham os seguintes requisitos: ter idade mínima de 25 (vinte e cinco) anos; declarar a efetiva necessidade de possuir arma de fogo; comprovar idoneidade, com a apresentação de certidões negativas de antecedentes criminais fornecidas pela Justiça Federal, Estadual, Militar e Eleitoral e de não estar respondendo a inquérito policial ou a processo criminal, que poderão ser fornecidas por meios eletrônicos; apresentar documento comprobatório de ocupação lícita e de residência certa.",
+            "resp_correta": "Ao adquirir uma arma de fogo o cidadão devera apresentar comprovante de capacidade técnica e aptidão psicológica para o manuseio de arma de fogo."
+        },
+        {
+            "Pergunta:": "Como formalizar a aquisição de arma de fogo?",
+            "resp_bot": "Após a aquisição da arma de fogo, de posse da autorização de aquisição de arma de fogo impressa, deve ser requerido o registro da arma de fogo no prazo de 15 (quinze) dias, mediante o preenchimento do requerimento correspondente, conforme orientações constantes do serviço REGISTRAR ARMA DE FOGO.",
+            "resp_correta": "A aquisição da arma de fogo é formalizada ao ser deferido o requerimento, o interessado deverá imprimir a autorização de aquisição em link disponível na mesma página de acompanhamento."
+        },
+        {
+            "Pergunta:": "De que forma a aquisição da arma de fogo é formalizada?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "A aquisição da arma de fogo é formalizada ao ser deferido o requerimento, o interessado deverá imprimir a autorização de aquisição em link disponível na mesma página de acompanhamento."
+        },
+        {
+            "Pergunta:": "O que fazer depois de adquirir arma de fogo?",
+            "resp_bot": "O prazo para registro da arma de fogo é de 15 (quinze) dias após a emissão de autorização de porte de arma de fogo.",
+            "resp_correta": "Após a aquisição da arma de fogo, de posse da autorização de aquisição de arma de fogo impressa, deve ser requerido o registro da arma de fogo no prazo de 15 (quinze) dias, mediante o preenchimento do requerimento correspondente, conforme orientações constantes do serviço REGISTRAR ARMA DE FOGO."
+        },
+        {
+            "Pergunta:": "Depois de conseguir a arma de fogo qual há mais exigência a ser cumprida?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Após a aquisição da arma de fogo, de posse da autorização de aquisição de arma de fogo impressa, deve ser requerido o registro da arma de fogo no prazo de 15 (quinze) dias, mediante o preenchimento do requerimento correspondente, conforme orientações constantes do serviço REGISTRAR ARMA DE FOGO."
+        },
+        {
+            "Pergunta:": "No que implica o registro de arma de fogo?",
+            "resp_bot": "Registrar uma arma de fogo é a expedição do Certificado de Registro de Arma de Fogo no Sistema Nacional de Armas da Polícia Federal, que autoriza o seu proprietário a manter a arma de fogo exclusivamente no interior de sua residência ou domicílio, ou no seu local de trabalho, desde que seja ele o titular ou o responsável legal pelo estabelecimento ou empresa.",
+            "resp_correta": "Registrar uma arma de fogo é a expedição do Certificado de Registro de Arma de Fogo no Sistema Nacional de Armas da Polícia Federal, que autoriza o seu proprietário a manter a arma de fogo exclusivamente no interior de sua residência ou domicílio, ou no seu local de trabalho, desde que seja ele o titular ou o responsável legal pelo estabelecimento ou empresa."
+        },
+        {
+            "Pergunta:": "O que significa registrar uma arma de fogo?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Registrar uma arma de fogo é a expedição do Certificado de Registro de Arma de Fogo no Sistema Nacional de Armas da Polícia Federal, que autoriza o seu proprietário a manter a arma de fogo exclusivamente no interior de sua residência ou domicílio, ou no seu local de trabalho, desde que seja ele o titular ou o responsável legal pelo estabelecimento ou empresa."
+        },
+        {
+            "Pergunta:": "Qual a pena para ter porte de arma sem registro federal?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Ter o porte de uma arma de fogo sem o registro federal válido é crime, passível de pena de detenção de 1 a 3 anos e multa (art. 12 da Lei n.º 10.826/03). Portanto, deve-se proceder à renovação do registro ou entregar, voluntariamente, sua arma de fogo na Campanha do Desarmamento, não sofrendo nenhuma punição (art. 31 e 32 da Lei n.º 10.826/03)."
+        },
+        {
+            "Pergunta:": "O que acontece se eu tiver porte de arma sem registro federal?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Ter o porte de uma arma de fogo sem o registro federal válido é crime, passível de pena de detenção de 1 a 3 anos e multa (art. 12 da Lei n.º 10.826/03). Portanto, deve-se proceder à renovação do registro ou entregar, voluntariamente, sua arma de fogo na Campanha do Desarmamento, não sofrendo nenhuma punição (art. 31 e 32 da Lei n.º 10.826/03)."
+        },
+        {
+            "Pergunta:": "Qual o prazo para proceder o registro da arma de fogo?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O prazo para registro da arma de fogo é de 15 (quinze) dias após a emissão de autorização de porte de arma de fogo."
+        },
+        {
+            "Pergunta:": "Em quanto tempo eu consigo registrar arma de fogo?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O prazo para registro da arma de fogo é de 15 (quinze) dias após a emissão de autorização de porte de arma de fogo."
+        },
+        {
+            "Pergunta:": "Em que Instituição brasileira pode ser encontrado o serviço de regularização migratória?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "No Departamento de Policia Federal (DPF)"
+        },
+        {
+            "Pergunta:": "Onde devo procurar o serviço de regularização migratória?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "No Departamento de Policia Federal (DPF)"
+        },
+        {
+            "Pergunta:": "Onde é realizado o serviço de regularização migratória quando não há Departamento da policia federal no município?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Nas Superintendências e Delegacias da Policia Federal, que divulga o endereço e contato de cada unidade de atendimento em seu site oficial, por região do país."
+        },
+        {
+            "Pergunta:": "Onde encontar o serviço de regularização migratória quando não há Departamento da policia federal no município?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Nas Superintendências e Delegacias da Policia Federal, que divulga o endereço e contato de cada unidade de atendimento em seu site oficial, por região do país."
+        },
+        {
+            "Pergunta:": "Em que lugar posso buscar o serviço de regularização migratória quando não há Departamento da policia federal no município?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Nas Superintendências e Delegacias da Policia Federal, que divulga o endereço e contato de cada unidade de atendimento em seu site oficial, por região do país."
+        },
+        {
+            "Pergunta:": "De que forma eu posso ter o atendimento para migração no Brasil?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Os atendimentos são feitos por agendamento, por sistema ou por e-mail, na Unidade onde o imigrante for domiciliado."
+        },
+        {
+            "Pergunta:": "Qual o prazo para regularização migratória dos imigrantes?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O prazo para regularização migratória é de 1 (um) ano, a contar da data de emissão do visto."
+        },
+        {
+            "Pergunta:": "Quanto preciso esperar para regularização migratória dos imigrantes?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O prazo para regularização migratória é de 1 (um) ano, a contar da data de emissão do visto."
+        },
+        {
+            "Pergunta:": "O prazo de validade do visto é sempre igual para todos os imigrantes?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Nos casos em que houver reciprocidade de tratamento, em termos definidos por comunicação diplomática o visto de visita poderá ter prazo de até 10 (dez) anos."
+        },
+        {
+            "Pergunta:": "Quanto tempo dura o visto temporário?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O visto temporário poderá ser concedido com prazo de validade até 1 (um) ano."
+        },
+        {
+            "Pergunta:": "Em quanto tempo acaba a validade do visto temporário?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O visto temporário poderá ser concedido com prazo de validade até 1 (um) ano."
+        },
+        {
+            "Pergunta:": "Para quem é importante a Carteira de Registro Nacional Migratório (CRNM)?",
+            "resp_bot": "O imigrante, com visto temporário; a quem tem autorização de residencia deferida; ao refugiado; e ao apátrida ou esilado, já reconhecidos pelos órgãos.",
+            "resp_correta": "Para o imigrante, com visto temporário; a quem tem autorização de residencia deferida; ao refugiado; e ao apátrida ou esilado, já reconhecidos pelos órgãos."
+        },
+        {
+            "Pergunta:": "Para que existe a Carteira de Registro Nacional Migratório (CRNM)?",
+            "resp_bot": "O imigrante, com visto temporário; a quem tem autorização de residencia deferida; ao refugiado; e ao apátrida ou esilado, já reconhecidos pelos órgãos.",
+            "resp_correta": "Para o imigrante, com visto temporário; a quem tem autorização de residencia deferida; ao refugiado; e ao apátrida ou esilado, já reconhecidos pelos órgãos."
+        },
+        {
+            "Pergunta:": "Como identificar um imigrante que não portar a Carteira de Registro Nacional Migratório?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O imigrante apresentará o protocolo recebido, quando da solicitação da carteira, acompanhado do documento de viagem ou de outro documento de identificação estabelecido em ato do Ministro de Estado do Ministério da Justiça e Segurança Pública."
+        },
+        {
+            "Pergunta:": "Como é possivel identificar um imigrante sem a Carteira de Registro Nacional Migratório?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O imigrante apresentará o protocolo recebido, quando da solicitação da carteira, acompanhado do documento de viagem ou de outro documento de identificação estabelecido em ato do Ministro de Estado do Ministério da Justiça e Segurança Pública."
+        },
+        {
+            "Pergunta:": "Como é expedida a Carteira de Registro Nacional Migratório?",
+            "resp_bot": "O imigrante devidamente registrado em sistema proprio da Policia Federal, que será identificado por dados biográficos e biométricos e receberá um número único de Registro Nacional Migratório.",
+            "resp_correta": "A carteira de Registro Nacional Migratório poderá ser expedida em meio eletrônico e documento em suporte físico."
+        },
+        {
+            "Pergunta:": "Precisa de algum documento para realizar o registro de Imigrante com visto temporário?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Apresentar requerimento próprio; uma foto 3X4;declaração de endereço eletrônico, acompanhada do comprovante de residência; documento de viagem válido, ou documento que comprove a identidade e a nacionalidade; formulário original do visto; e comprovante de pagamento da taxa de emissão da CRNM."
+        },
+        {
+            "Pergunta:": "Que tipo de documento é o passaporte?",
+            "resp_bot": "Taxa comum R$ 257,25; Taxa em casos de urgência e emergência R$ 334,42; Taxa majorada(para renovação de passaporte quando o anterior não é apresentado e não existe ocorrência criminal) R$ 514,50.",
+            "resp_correta": "O passaporte é um Documento de Viagem que identifica o viajante em outros países. Nele são registradas entradas e saídas, vistos e autorizações."
+        },
+        {
+            "Pergunta:": "Para que serve o passaporte?",
+            "resp_bot": "Para o solicitante brasileiro: deverá ter feito alistamento eleitoral; ter votado(ou justificado)na última eleição;estar quite com o serviço militar obrigatório;reunir documentos necessários;não ser procurado pela justiça.",
+            "resp_correta": "O passaporte é um Documento de Viagem que identifica o viajante em outros países. Nele são registradas entradas e saídas, vistos e autorizações."
+        },
+        {
+            "Pergunta:": "O que é preciso para conseguir um passaporte?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Para o solicitante brasileiro: deverá ter feito alistamento eleitoral; ter votado(ou justificado)na última eleição;estar quite com o serviço militar obrigatório;reunir documentos necessários;não ser procurado pela justiça."
+        },
+        {
+            "Pergunta:": "Que documentos são exigidos para obter passaporte?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Para o solicitante brasileiro: deverá ter feito alistamento eleitoral; ter votado(ou justificado)na última eleição;estar quite com o serviço militar obrigatório;reunir documentos necessários;não ser procurado pela justiça."
+        },
+        {
+            "Pergunta:": "Qual o preço para conseguir um passaporte?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Taxa comum R$ 257,25; Taxa em casos de urgência e emergência R$ 334,42; Taxa majorada(para renovação de passaporte quando o anterior não é apresentado e não existe ocorrência criminal) R$ 514,50."
+        },
+        {
+            "Pergunta:": "Quanto devo pagar para tirar o passaporte?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Taxa comum R$ 257,25; Taxa em casos de urgência e emergência R$ 334,42; Taxa majorada(para renovação de passaporte quando o anterior não é apresentado e não existe ocorrência criminal) R$ 514,50."
+        },
+        {
+            "Pergunta:": "O que regulamenta o passaporte?",
+            "resp_bot": "Para o solicitante brasileiro: deverá ter feito alistamento eleitoral; ter votado(ou justificado)na última eleição;estar quite com o serviço militar obrigatório;reunir documentos necessários;não ser procurado pela justiça.",
+            "resp_correta": "O Decreto Nº 1.983, de 14 de agosto de 1996, institui, no âmbito do Departamento de Polícia , o Programa de Modernização, Agilização, Aprimoramento e Segurança da Fiscalização do Tráfego Internacional e do Passaporte Brasileiro (PROMASP), e aprova o Regulamento de Documentos de Viagem."
+        },
+        {
+            "Pergunta:": "Qual a lei que regulariza o passaporte?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O Decreto Nº 1.983, de 14 de agosto de 1996, institui, no âmbito do Departamento de Polícia , o Programa de Modernização, Agilização, Aprimoramento e Segurança da Fiscalização do Tráfego Internacional e do Passaporte Brasileiro (PROMASP), e aprova o Regulamento de Documentos de Viagem."
+        },
+        {
+            "Pergunta:": "Qual o órgão competente para expedir o passaporte?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O Departamento de Policia Federal do Ministério da Justiça."
+        },
+        {
+            "Pergunta:": "Onde devo ir para para expedir o passaporte?",
+            "resp_bot": "No Departamento de Policia Federal do Ministério da Justiça.",
+            "resp_correta": "O Departamento de Policia Federal do Ministério da Justiça."
+        },
+        {
+            "Pergunta:": "O passaporte tem validade de quantos anos?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O prazo de validade do passaporte depende da idade do titular, apartir de 18 anos o prazo é de 10 (dez) anos."
+        },
+        {
+            "Pergunta:": "Quanto tempo demora para o passaporte ser emitido?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O passaporte normalmente estará disponível para entrega cerca de 6 (seis) dias úteis após o atendimento presencial de solicitação. Esse prazo pode variar de acordo com a localização."
+        },
+        {
+            "Pergunta:": "Qual é o tempo para entrega do passaporte após a solicitação?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O passaporte normalmente estará disponível para entrega cerca de 6 (seis) dias úteis após o atendimento presencial de solicitação. Esse prazo pode variar de acordo com a localização."
+        },
+        {
+            "Pergunta:": "Quais documentos são exigidos para obter o passaporte?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Documento de identificação com foto; passaporte anterior , no caso de renovação; fotografia facial recente , tamanho 5X7, colorida; comprovante da situação eleitoral regular; preencher formulário solicitação de passaporte."
+        },
+        {
+            "Pergunta:": "Que documentos devo apresentar para conseguir o passaporte?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Documento de identificação com foto; passaporte anterior , no caso de renovação; fotografia facial recente , tamanho 5X7, colorida; comprovante da situação eleitoral regular; preencher formulário solicitação de passaporte."
+        },
+        {
+            "Pergunta:": "Preciso de passaporte para ir para outro países do MERCOSUL?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Sim, é possivel viajar aos países do MERCOSUL sem passaporte, desde que o viajante esteja em viagem a turismo."
+        },
+        {
+            "Pergunta:": "Eu consigo ir para outro país do MERCOSUL sem passaporte?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Sim, é possivel viajar aos países do MERCOSUL sem passaporte, desde que o viajante esteja em viagem a turismo."
+        },
+        {
+            "Pergunta:": "Posso usar outro passaporte se tiver dupla nacionalidade?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Sim, o brasileiro com dupla nacionalidade pode usar passaporte de outra nacionalidade, para entrar ou sair do Brasil."
+        },
+        {
+            "Pergunta:": "É possivel usar outro passaporte se tiver dupla nacionalidade?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Sim, o brasileiro com dupla nacionalidade pode usar passaporte de outra nacionalidade, para entrar ou sair do Brasil."
+        },
+        {
+            "Pergunta:": "Como é o procedimento para adquirir arma de fogo?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Para aquisição de arma de fogo deve ser emitido o requerimento de aquisição no formulário eletrônico disponibilizado, escolher a categoria. É a autorização, concedida pela Polícia Federal, aos cidadãos brasileiros e estrangeiros permanentes que preencham os seguintes requisitos: ter idade mínima de 25 (vinte e cinco) anos; declarar a efetiva necessidade de possuir arma de fogo; comprovar idoneidade, com a apresentação de certidões negativas de antecedentes criminais fornecidas pela Justiça Federal, Estadual, Militar e Eleitoral e de não estar respondendo a inquérito policial ou a processo criminal, que poderão ser fornecidas por meios eletrônicos; apresentar documento comprobatório de ocupação lícita e de residência certa."
+        },
+        {
+            "Pergunta:": "De que forma eu consigo arma de fogo?",
+            "resp_bot": "O prazo para registro da arma de fogo é de 15 (quinze) dias após a emissão de autorização de porte de arma de fogo.",
+            "resp_correta": "Para aquisição de arma de fogo deve ser emitido o requerimento de aquisição no formulário eletrônico disponibilizado, escolher a categoria. É a autorização, concedida pela Polícia Federal, aos cidadãos brasileiros e estrangeiros permanentes que preencham os seguintes requisitos: ter idade mínima de 25 (vinte e cinco) anos; declarar a efetiva necessidade de possuir arma de fogo; comprovar idoneidade, com a apresentação de certidões negativas de antecedentes criminais fornecidas pela Justiça Federal, Estadual, Militar e Eleitoral e de não estar respondendo a inquérito policial ou a processo criminal, que poderão ser fornecidas por meios eletrônicos; apresentar documento comprobatório de ocupação lícita e de residência certa."
+        },
+        {
+            "Pergunta:": "O que deve ser apresentado pelo cidadão ao adquirir uma arma de fogo?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Ao adquirir uma arma de fogo o cidadão devera apresentar comprovante de capacidade técnica e aptidão psicológica para o manuseio de arma de fogo."
+        },
+        {
+            "Pergunta:": "O que é exigido para conseguir arma de fogo?",
+            "resp_bot": "Para aquisição de arma de fogo deve ser emitido o requerimento de aquisição no formulário eletrônico disponibilizado, escolher a categoria. É a autorização, concedida pela Polícia Federal, aos cidadãos brasileiros e estrangeiros permanentes que preencham os seguintes requisitos: ter idade mínima de 25 (vinte e cinco) anos; declarar a efetiva necessidade de possuir arma de fogo; comprovar idoneidade, com a apresentação de certidões negativas de antecedentes criminais fornecidas pela Justiça Federal, Estadual, Militar e Eleitoral e de não estar respondendo a inquérito policial ou a processo criminal, que poderão ser fornecidas por meios eletrônicos; apresentar documento comprobatório de ocupação lícita e de residência certa.",
+            "resp_correta": "Ao adquirir uma arma de fogo o cidadão devera apresentar comprovante de capacidade técnica e aptidão psicológica para o manuseio de arma de fogo."
+        },
+        {
+            "Pergunta:": "Como formalizar a aquisição de arma de fogo?",
+            "resp_bot": "Após a aquisição da arma de fogo, de posse da autorização de aquisição de arma de fogo impressa, deve ser requerido o registro da arma de fogo no prazo de 15 (quinze) dias, mediante o preenchimento do requerimento correspondente, conforme orientações constantes do serviço REGISTRAR ARMA DE FOGO.",
+            "resp_correta": "A aquisição da arma de fogo é formalizada ao ser deferido o requerimento, o interessado deverá imprimir a autorização de aquisição em link disponível na mesma página de acompanhamento."
+        },
+        {
+            "Pergunta:": "De que forma a aquisição da arma de fogo é formalizada?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "A aquisição da arma de fogo é formalizada ao ser deferido o requerimento, o interessado deverá imprimir a autorização de aquisição em link disponível na mesma página de acompanhamento."
+        },
+        {
+            "Pergunta:": "O que fazer depois de adquirir arma de fogo?",
+            "resp_bot": "O prazo para registro da arma de fogo é de 15 (quinze) dias após a emissão de autorização de porte de arma de fogo.",
+            "resp_correta": "Após a aquisição da arma de fogo, de posse da autorização de aquisição de arma de fogo impressa, deve ser requerido o registro da arma de fogo no prazo de 15 (quinze) dias, mediante o preenchimento do requerimento correspondente, conforme orientações constantes do serviço REGISTRAR ARMA DE FOGO."
+        },
+        {
+            "Pergunta:": "Depois de conseguir a arma de fogo qual há mais exigência a ser cumprida?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Após a aquisição da arma de fogo, de posse da autorização de aquisição de arma de fogo impressa, deve ser requerido o registro da arma de fogo no prazo de 15 (quinze) dias, mediante o preenchimento do requerimento correspondente, conforme orientações constantes do serviço REGISTRAR ARMA DE FOGO."
+        },
+        {
+            "Pergunta:": "No que implica o registro de arma de fogo?",
+            "resp_bot": "Registrar uma arma de fogo é a expedição do Certificado de Registro de Arma de Fogo no Sistema Nacional de Armas da Polícia Federal, que autoriza o seu proprietário a manter a arma de fogo exclusivamente no interior de sua residência ou domicílio, ou no seu local de trabalho, desde que seja ele o titular ou o responsável legal pelo estabelecimento ou empresa.",
+            "resp_correta": "Registrar uma arma de fogo é a expedição do Certificado de Registro de Arma de Fogo no Sistema Nacional de Armas da Polícia Federal, que autoriza o seu proprietário a manter a arma de fogo exclusivamente no interior de sua residência ou domicílio, ou no seu local de trabalho, desde que seja ele o titular ou o responsável legal pelo estabelecimento ou empresa."
+        },
+        {
+            "Pergunta:": "O que significa registrar uma arma de fogo?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Registrar uma arma de fogo é a expedição do Certificado de Registro de Arma de Fogo no Sistema Nacional de Armas da Polícia Federal, que autoriza o seu proprietário a manter a arma de fogo exclusivamente no interior de sua residência ou domicílio, ou no seu local de trabalho, desde que seja ele o titular ou o responsável legal pelo estabelecimento ou empresa."
+        },
+        {
+            "Pergunta:": "Qual a pena para ter porte de arma sem registro federal?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Ter o porte de uma arma de fogo sem o registro federal válido é crime, passível de pena de detenção de 1 a 3 anos e multa (art. 12 da Lei n.º 10.826/03). Portanto, deve-se proceder à renovação do registro ou entregar, voluntariamente, sua arma de fogo na Campanha do Desarmamento, não sofrendo nenhuma punição (art. 31 e 32 da Lei n.º 10.826/03)."
+        },
+        {
+            "Pergunta:": "O que acontece se eu tiver porte de arma sem registro federal?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Ter o porte de uma arma de fogo sem o registro federal válido é crime, passível de pena de detenção de 1 a 3 anos e multa (art. 12 da Lei n.º 10.826/03). Portanto, deve-se proceder à renovação do registro ou entregar, voluntariamente, sua arma de fogo na Campanha do Desarmamento, não sofrendo nenhuma punição (art. 31 e 32 da Lei n.º 10.826/03)."
+        },
+        {
+            "Pergunta:": "Qual o prazo para proceder o registro da arma de fogo?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O prazo para registro da arma de fogo é de 15 (quinze) dias após a emissão de autorização de porte de arma de fogo."
+        },
+        {
+            "Pergunta:": "Em quanto tempo eu consigo registrar arma de fogo?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O prazo para registro da arma de fogo é de 15 (quinze) dias após a emissão de autorização de porte de arma de fogo."
+        },
+        {
+            "Pergunta:": "Em que Instituição brasileira pode ser encontrado o serviço de regularização migratória?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "No Departamento de Policia Federal (DPF)"
+        },
+        {
+            "Pergunta:": "Onde devo procurar o serviço de regularização migratória?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "No Departamento de Policia Federal (DPF)"
+        },
+        {
+            "Pergunta:": "Onde é realizado o serviço de regularização migratória quando não há Departamento da policia federal no município?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Nas Superintendências e Delegacias da Policia Federal, que divulga o endereço e contato de cada unidade de atendimento em seu site oficial, por região do país."
+        },
+        {
+            "Pergunta:": "Onde encontar o serviço de regularização migratória quando não há Departamento da policia federal no município?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Nas Superintendências e Delegacias da Policia Federal, que divulga o endereço e contato de cada unidade de atendimento em seu site oficial, por região do país."
+        },
+        {
+            "Pergunta:": "Em que lugar posso buscar o serviço de regularização migratória quando não há Departamento da policia federal no município?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Nas Superintendências e Delegacias da Policia Federal, que divulga o endereço e contato de cada unidade de atendimento em seu site oficial, por região do país."
+        },
+        {
+            "Pergunta:": "De que forma eu posso ter o atendimento para migração no Brasil?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Os atendimentos são feitos por agendamento, por sistema ou por e-mail, na Unidade onde o imigrante for domiciliado."
+        },
+        {
+            "Pergunta:": "Qual o prazo para regularização migratória dos imigrantes?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O prazo para regularização migratória é de 1 (um) ano, a contar da data de emissão do visto."
+        },
+        {
+            "Pergunta:": "Quanto preciso esperar para regularização migratória dos imigrantes?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O prazo para regularização migratória é de 1 (um) ano, a contar da data de emissão do visto."
+        },
+        {
+            "Pergunta:": "O prazo de validade do visto é sempre igual para todos os imigrantes?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Nos casos em que houver reciprocidade de tratamento, em termos definidos por comunicação diplomática o visto de visita poderá ter prazo de até 10 (dez) anos."
+        },
+        {
+            "Pergunta:": "Quanto tempo dura o visto temporário?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O visto temporário poderá ser concedido com prazo de validade até 1 (um) ano."
+        },
+        {
+            "Pergunta:": "Em quanto tempo acaba a validade do visto temporário?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O visto temporário poderá ser concedido com prazo de validade até 1 (um) ano."
+        },
+        {
+            "Pergunta:": "Para quem é importante a Carteira de Registro Nacional Migratório (CRNM)?",
+            "resp_bot": "O imigrante, com visto temporário; a quem tem autorização de residencia deferida; ao refugiado; e ao apátrida ou esilado, já reconhecidos pelos órgãos.",
+            "resp_correta": "Para o imigrante, com visto temporário; a quem tem autorização de residencia deferida; ao refugiado; e ao apátrida ou esilado, já reconhecidos pelos órgãos."
+        },
+        {
+            "Pergunta:": "Para que existe a Carteira de Registro Nacional Migratório (CRNM)?",
+            "resp_bot": "O imigrante, com visto temporário; a quem tem autorização de residencia deferida; ao refugiado; e ao apátrida ou esilado, já reconhecidos pelos órgãos.",
+            "resp_correta": "Para o imigrante, com visto temporário; a quem tem autorização de residencia deferida; ao refugiado; e ao apátrida ou esilado, já reconhecidos pelos órgãos."
+        },
+        {
+            "Pergunta:": "Como identificar um imigrante que não portar a Carteira de Registro Nacional Migratório?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O imigrante apresentará o protocolo recebido, quando da solicitação da carteira, acompanhado do documento de viagem ou de outro documento de identificação estabelecido em ato do Ministro de Estado do Ministério da Justiça e Segurança Pública."
+        },
+        {
+            "Pergunta:": "Como é possivel identificar um imigrante sem a Carteira de Registro Nacional Migratório?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O imigrante apresentará o protocolo recebido, quando da solicitação da carteira, acompanhado do documento de viagem ou de outro documento de identificação estabelecido em ato do Ministro de Estado do Ministério da Justiça e Segurança Pública."
+        },
+        {
+            "Pergunta:": "Como é expedida a Carteira de Registro Nacional Migratório?",
+            "resp_bot": "O imigrante devidamente registrado em sistema proprio da Policia Federal, que será identificado por dados biográficos e biométricos e receberá um número único de Registro Nacional Migratório.",
+            "resp_correta": "A carteira de Registro Nacional Migratório poderá ser expedida em meio eletrônico e documento em suporte físico."
+        },
+        {
+            "Pergunta:": "Precisa de algum documento para realizar o registro de Imigrante com visto temporário?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Apresentar requerimento próprio; uma foto 3X4;declaração de endereço eletrônico, acompanhada do comprovante de residência; documento de viagem válido, ou documento que comprove a identidade e a nacionalidade; formulário original do visto; e comprovante de pagamento da taxa de emissão da CRNM."
+        },
+        {
+            "Pergunta:": "Que tipo de documento é o passaporte?",
+            "resp_bot": "Taxa comum R$ 257,25; Taxa em casos de urgência e emergência R$ 334,42; Taxa majorada(para renovação de passaporte quando o anterior não é apresentado e não existe ocorrência criminal) R$ 514,50.",
+            "resp_correta": "O passaporte é um Documento de Viagem que identifica o viajante em outros países. Nele são registradas entradas e saídas, vistos e autorizações."
+        },
+        {
+            "Pergunta:": "Para que serve o passaporte?",
+            "resp_bot": "Para o solicitante brasileiro: deverá ter feito alistamento eleitoral; ter votado(ou justificado)na última eleição;estar quite com o serviço militar obrigatório;reunir documentos necessários;não ser procurado pela justiça.",
+            "resp_correta": "O passaporte é um Documento de Viagem que identifica o viajante em outros países. Nele são registradas entradas e saídas, vistos e autorizações."
+        },
+        {
+            "Pergunta:": "O que é preciso para conseguir um passaporte?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Para o solicitante brasileiro: deverá ter feito alistamento eleitoral; ter votado(ou justificado)na última eleição;estar quite com o serviço militar obrigatório;reunir documentos necessários;não ser procurado pela justiça."
+        },
+        {
+            "Pergunta:": "Que documentos são exigidos para obter passaporte?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Para o solicitante brasileiro: deverá ter feito alistamento eleitoral; ter votado(ou justificado)na última eleição;estar quite com o serviço militar obrigatório;reunir documentos necessários;não ser procurado pela justiça."
+        },
+        {
+            "Pergunta:": "Qual o preço para conseguir um passaporte?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Taxa comum R$ 257,25; Taxa em casos de urgência e emergência R$ 334,42; Taxa majorada(para renovação de passaporte quando o anterior não é apresentado e não existe ocorrência criminal) R$ 514,50."
+        },
+        {
+            "Pergunta:": "Quanto devo pagar para tirar o passaporte?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Taxa comum R$ 257,25; Taxa em casos de urgência e emergência R$ 334,42; Taxa majorada(para renovação de passaporte quando o anterior não é apresentado e não existe ocorrência criminal) R$ 514,50."
+        },
+        {
+            "Pergunta:": "O que regulamenta o passaporte?",
+            "resp_bot": "Para o solicitante brasileiro: deverá ter feito alistamento eleitoral; ter votado(ou justificado)na última eleição;estar quite com o serviço militar obrigatório;reunir documentos necessários;não ser procurado pela justiça.",
+            "resp_correta": "O Decreto Nº 1.983, de 14 de agosto de 1996, institui, no âmbito do Departamento de Polícia , o Programa de Modernização, Agilização, Aprimoramento e Segurança da Fiscalização do Tráfego Internacional e do Passaporte Brasileiro (PROMASP), e aprova o Regulamento de Documentos de Viagem."
+        },
+        {
+            "Pergunta:": "Qual a lei que regulariza o passaporte?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O Decreto Nº 1.983, de 14 de agosto de 1996, institui, no âmbito do Departamento de Polícia , o Programa de Modernização, Agilização, Aprimoramento e Segurança da Fiscalização do Tráfego Internacional e do Passaporte Brasileiro (PROMASP), e aprova o Regulamento de Documentos de Viagem."
+        },
+        {
+            "Pergunta:": "Qual o órgão competente para expedir o passaporte?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O Departamento de Policia Federal do Ministério da Justiça."
+        },
+        {
+            "Pergunta:": "Onde devo ir para para expedir o passaporte?",
+            "resp_bot": "No Departamento de Policia Federal do Ministério da Justiça.",
+            "resp_correta": "O Departamento de Policia Federal do Ministério da Justiça."
+        },
+        {
+            "Pergunta:": "O passaporte tem validade de quantos anos?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O prazo de validade do passaporte depende da idade do titular, apartir de 18 anos o prazo é de 10 (dez) anos."
+        },
+        {
+            "Pergunta:": "Quanto tempo demora para o passaporte ser emitido?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O passaporte normalmente estará disponível para entrega cerca de 6 (seis) dias úteis após o atendimento presencial de solicitação. Esse prazo pode variar de acordo com a localização."
+        },
+        {
+            "Pergunta:": "Qual é o tempo para entrega do passaporte após a solicitação?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O passaporte normalmente estará disponível para entrega cerca de 6 (seis) dias úteis após o atendimento presencial de solicitação. Esse prazo pode variar de acordo com a localização."
+        },
+        {
+            "Pergunta:": "Quais documentos são exigidos para obter o passaporte?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Documento de identificação com foto; passaporte anterior , no caso de renovação; fotografia facial recente , tamanho 5X7, colorida; comprovante da situação eleitoral regular; preencher formulário solicitação de passaporte."
+        },
+        {
+            "Pergunta:": "Que documentos devo apresentar para conseguir o passaporte?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Documento de identificação com foto; passaporte anterior , no caso de renovação; fotografia facial recente , tamanho 5X7, colorida; comprovante da situação eleitoral regular; preencher formulário solicitação de passaporte."
+        },
+        {
+            "Pergunta:": "Preciso de passaporte para ir para outro países do MERCOSUL?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Sim, é possivel viajar aos países do MERCOSUL sem passaporte, desde que o viajante esteja em viagem a turismo."
+        },
+        {
+            "Pergunta:": "Eu consigo ir para outro país do MERCOSUL sem passaporte?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Sim, é possivel viajar aos países do MERCOSUL sem passaporte, desde que o viajante esteja em viagem a turismo."
+        },
+        {
+            "Pergunta:": "Posso usar outro passaporte se tiver dupla nacionalidade?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Sim, o brasileiro com dupla nacionalidade pode usar passaporte de outra nacionalidade, para entrar ou sair do Brasil."
+        },
+        {
+            "Pergunta:": "É possivel usar outro passaporte se tiver dupla nacionalidade?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Sim, o brasileiro com dupla nacionalidade pode usar passaporte de outra nacionalidade, para entrar ou sair do Brasil."
+        },
+        {
+            "Pergunta:": "Como é o procedimento para adquirir arma de fogo?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Para aquisição de arma de fogo deve ser emitido o requerimento de aquisição no formulário eletrônico disponibilizado, escolher a categoria. É a autorização, concedida pela Polícia Federal, aos cidadãos brasileiros e estrangeiros permanentes que preencham os seguintes requisitos: ter idade mínima de 25 (vinte e cinco) anos; declarar a efetiva necessidade de possuir arma de fogo; comprovar idoneidade, com a apresentação de certidões negativas de antecedentes criminais fornecidas pela Justiça Federal, Estadual, Militar e Eleitoral e de não estar respondendo a inquérito policial ou a processo criminal, que poderão ser fornecidas por meios eletrônicos; apresentar documento comprobatório de ocupação lícita e de residência certa."
+        },
+        {
+            "Pergunta:": "De que forma eu consigo arma de fogo?",
+            "resp_bot": "O prazo para registro da arma de fogo é de 15 (quinze) dias após a emissão de autorização de porte de arma de fogo.",
+            "resp_correta": "Para aquisição de arma de fogo deve ser emitido o requerimento de aquisição no formulário eletrônico disponibilizado, escolher a categoria. É a autorização, concedida pela Polícia Federal, aos cidadãos brasileiros e estrangeiros permanentes que preencham os seguintes requisitos: ter idade mínima de 25 (vinte e cinco) anos; declarar a efetiva necessidade de possuir arma de fogo; comprovar idoneidade, com a apresentação de certidões negativas de antecedentes criminais fornecidas pela Justiça Federal, Estadual, Militar e Eleitoral e de não estar respondendo a inquérito policial ou a processo criminal, que poderão ser fornecidas por meios eletrônicos; apresentar documento comprobatório de ocupação lícita e de residência certa."
+        },
+        {
+            "Pergunta:": "O que deve ser apresentado pelo cidadão ao adquirir uma arma de fogo?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Ao adquirir uma arma de fogo o cidadão devera apresentar comprovante de capacidade técnica e aptidão psicológica para o manuseio de arma de fogo."
+        },
+        {
+            "Pergunta:": "O que é exigido para conseguir arma de fogo?",
+            "resp_bot": "Para aquisição de arma de fogo deve ser emitido o requerimento de aquisição no formulário eletrônico disponibilizado, escolher a categoria. É a autorização, concedida pela Polícia Federal, aos cidadãos brasileiros e estrangeiros permanentes que preencham os seguintes requisitos: ter idade mínima de 25 (vinte e cinco) anos; declarar a efetiva necessidade de possuir arma de fogo; comprovar idoneidade, com a apresentação de certidões negativas de antecedentes criminais fornecidas pela Justiça Federal, Estadual, Militar e Eleitoral e de não estar respondendo a inquérito policial ou a processo criminal, que poderão ser fornecidas por meios eletrônicos; apresentar documento comprobatório de ocupação lícita e de residência certa.",
+            "resp_correta": "Ao adquirir uma arma de fogo o cidadão devera apresentar comprovante de capacidade técnica e aptidão psicológica para o manuseio de arma de fogo."
+        },
+        {
+            "Pergunta:": "Como formalizar a aquisição de arma de fogo?",
+            "resp_bot": "Após a aquisição da arma de fogo, de posse da autorização de aquisição de arma de fogo impressa, deve ser requerido o registro da arma de fogo no prazo de 15 (quinze) dias, mediante o preenchimento do requerimento correspondente, conforme orientações constantes do serviço REGISTRAR ARMA DE FOGO.",
+            "resp_correta": "A aquisição da arma de fogo é formalizada ao ser deferido o requerimento, o interessado deverá imprimir a autorização de aquisição em link disponível na mesma página de acompanhamento."
+        },
+        {
+            "Pergunta:": "De que forma a aquisição da arma de fogo é formalizada?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "A aquisição da arma de fogo é formalizada ao ser deferido o requerimento, o interessado deverá imprimir a autorização de aquisição em link disponível na mesma página de acompanhamento."
+        },
+        {
+            "Pergunta:": "O que fazer depois de adquirir arma de fogo?",
+            "resp_bot": "O prazo para registro da arma de fogo é de 15 (quinze) dias após a emissão de autorização de porte de arma de fogo.",
+            "resp_correta": "Após a aquisição da arma de fogo, de posse da autorização de aquisição de arma de fogo impressa, deve ser requerido o registro da arma de fogo no prazo de 15 (quinze) dias, mediante o preenchimento do requerimento correspondente, conforme orientações constantes do serviço REGISTRAR ARMA DE FOGO."
+        },
+        {
+            "Pergunta:": "Depois de conseguir a arma de fogo qual há mais exigência a ser cumprida?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Após a aquisição da arma de fogo, de posse da autorização de aquisição de arma de fogo impressa, deve ser requerido o registro da arma de fogo no prazo de 15 (quinze) dias, mediante o preenchimento do requerimento correspondente, conforme orientações constantes do serviço REGISTRAR ARMA DE FOGO."
+        },
+        {
+            "Pergunta:": "No que implica o registro de arma de fogo?",
+            "resp_bot": "Registrar uma arma de fogo é a expedição do Certificado de Registro de Arma de Fogo no Sistema Nacional de Armas da Polícia Federal, que autoriza o seu proprietário a manter a arma de fogo exclusivamente no interior de sua residência ou domicílio, ou no seu local de trabalho, desde que seja ele o titular ou o responsável legal pelo estabelecimento ou empresa.",
+            "resp_correta": "Registrar uma arma de fogo é a expedição do Certificado de Registro de Arma de Fogo no Sistema Nacional de Armas da Polícia Federal, que autoriza o seu proprietário a manter a arma de fogo exclusivamente no interior de sua residência ou domicílio, ou no seu local de trabalho, desde que seja ele o titular ou o responsável legal pelo estabelecimento ou empresa."
+        },
+        {
+            "Pergunta:": "O que significa registrar uma arma de fogo?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Registrar uma arma de fogo é a expedição do Certificado de Registro de Arma de Fogo no Sistema Nacional de Armas da Polícia Federal, que autoriza o seu proprietário a manter a arma de fogo exclusivamente no interior de sua residência ou domicílio, ou no seu local de trabalho, desde que seja ele o titular ou o responsável legal pelo estabelecimento ou empresa."
+        },
+        {
+            "Pergunta:": "Qual a pena para ter porte de arma sem registro federal?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Ter o porte de uma arma de fogo sem o registro federal válido é crime, passível de pena de detenção de 1 a 3 anos e multa (art. 12 da Lei n.º 10.826/03). Portanto, deve-se proceder à renovação do registro ou entregar, voluntariamente, sua arma de fogo na Campanha do Desarmamento, não sofrendo nenhuma punição (art. 31 e 32 da Lei n.º 10.826/03)."
+        },
+        {
+            "Pergunta:": "O que acontece se eu tiver porte de arma sem registro federal?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Ter o porte de uma arma de fogo sem o registro federal válido é crime, passível de pena de detenção de 1 a 3 anos e multa (art. 12 da Lei n.º 10.826/03). Portanto, deve-se proceder à renovação do registro ou entregar, voluntariamente, sua arma de fogo na Campanha do Desarmamento, não sofrendo nenhuma punição (art. 31 e 32 da Lei n.º 10.826/03)."
+        },
+        {
+            "Pergunta:": "Qual o prazo para proceder o registro da arma de fogo?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O prazo para registro da arma de fogo é de 15 (quinze) dias após a emissão de autorização de porte de arma de fogo."
+        },
+        {
+            "Pergunta:": "Em quanto tempo eu consigo registrar arma de fogo?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O prazo para registro da arma de fogo é de 15 (quinze) dias após a emissão de autorização de porte de arma de fogo."
+        },
+        {
+            "Pergunta:": "Em que Instituição brasileira pode ser encontrado o serviço de regularização migratória?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "No Departamento de Policia Federal (DPF)"
+        },
+        {
+            "Pergunta:": "Onde devo procurar o serviço de regularização migratória?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "No Departamento de Policia Federal (DPF)"
+        },
+        {
+            "Pergunta:": "Onde é realizado o serviço de regularização migratória quando não há Departamento da policia federal no município?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Nas Superintendências e Delegacias da Policia Federal, que divulga o endereço e contato de cada unidade de atendimento em seu site oficial, por região do país."
+        },
+        {
+            "Pergunta:": "Onde encontar o serviço de regularização migratória quando não há Departamento da policia federal no município?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Nas Superintendências e Delegacias da Policia Federal, que divulga o endereço e contato de cada unidade de atendimento em seu site oficial, por região do país."
+        },
+        {
+            "Pergunta:": "Em que lugar posso buscar o serviço de regularização migratória quando não há Departamento da policia federal no município?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Nas Superintendências e Delegacias da Policia Federal, que divulga o endereço e contato de cada unidade de atendimento em seu site oficial, por região do país."
+        },
+        {
+            "Pergunta:": "De que forma eu posso ter o atendimento para migração no Brasil?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Os atendimentos são feitos por agendamento, por sistema ou por e-mail, na Unidade onde o imigrante for domiciliado."
+        },
+        {
+            "Pergunta:": "Qual o prazo para regularização migratória dos imigrantes?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O prazo para regularização migratória é de 1 (um) ano, a contar da data de emissão do visto."
+        },
+        {
+            "Pergunta:": "Quanto preciso esperar para regularização migratória dos imigrantes?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O prazo para regularização migratória é de 1 (um) ano, a contar da data de emissão do visto."
+        },
+        {
+            "Pergunta:": "O prazo de validade do visto é sempre igual para todos os imigrantes?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Nos casos em que houver reciprocidade de tratamento, em termos definidos por comunicação diplomática o visto de visita poderá ter prazo de até 10 (dez) anos."
+        },
+        {
+            "Pergunta:": "Quanto tempo dura o visto temporário?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O visto temporário poderá ser concedido com prazo de validade até 1 (um) ano."
+        },
+        {
+            "Pergunta:": "Em quanto tempo acaba a validade do visto temporário?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O visto temporário poderá ser concedido com prazo de validade até 1 (um) ano."
+        },
+        {
+            "Pergunta:": "Para quem é importante a Carteira de Registro Nacional Migratório (CRNM)?",
+            "resp_bot": "O imigrante, com visto temporário; a quem tem autorização de residencia deferida; ao refugiado; e ao apátrida ou esilado, já reconhecidos pelos órgãos.",
+            "resp_correta": "Para o imigrante, com visto temporário; a quem tem autorização de residencia deferida; ao refugiado; e ao apátrida ou esilado, já reconhecidos pelos órgãos."
+        },
+        {
+            "Pergunta:": "Para que existe a Carteira de Registro Nacional Migratório (CRNM)?",
+            "resp_bot": "O imigrante, com visto temporário; a quem tem autorização de residencia deferida; ao refugiado; e ao apátrida ou esilado, já reconhecidos pelos órgãos.",
+            "resp_correta": "Para o imigrante, com visto temporário; a quem tem autorização de residencia deferida; ao refugiado; e ao apátrida ou esilado, já reconhecidos pelos órgãos."
+        },
+        {
+            "Pergunta:": "Como identificar um imigrante que não portar a Carteira de Registro Nacional Migratório?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O imigrante apresentará o protocolo recebido, quando da solicitação da carteira, acompanhado do documento de viagem ou de outro documento de identificação estabelecido em ato do Ministro de Estado do Ministério da Justiça e Segurança Pública."
+        },
+        {
+            "Pergunta:": "Como é possivel identificar um imigrante sem a Carteira de Registro Nacional Migratório?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O imigrante apresentará o protocolo recebido, quando da solicitação da carteira, acompanhado do documento de viagem ou de outro documento de identificação estabelecido em ato do Ministro de Estado do Ministério da Justiça e Segurança Pública."
+        },
+        {
+            "Pergunta:": "Como é expedida a Carteira de Registro Nacional Migratório?",
+            "resp_bot": "O imigrante devidamente registrado em sistema proprio da Policia Federal, que será identificado por dados biográficos e biométricos e receberá um número único de Registro Nacional Migratório.",
+            "resp_correta": "A carteira de Registro Nacional Migratório poderá ser expedida em meio eletrônico e documento em suporte físico."
+        },
+        {
+            "Pergunta:": "Precisa de algum documento para realizar o registro de Imigrante com visto temporário?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Apresentar requerimento próprio; uma foto 3X4;declaração de endereço eletrônico, acompanhada do comprovante de residência; documento de viagem válido, ou documento que comprove a identidade e a nacionalidade; formulário original do visto; e comprovante de pagamento da taxa de emissão da CRNM."
+        },
+        {
+            "Pergunta:": "Que tipo de documento é o passaporte?",
+            "resp_bot": "Taxa comum R$ 257,25; Taxa em casos de urgência e emergência R$ 334,42; Taxa majorada(para renovação de passaporte quando o anterior não é apresentado e não existe ocorrência criminal) R$ 514,50.",
+            "resp_correta": "O passaporte é um Documento de Viagem que identifica o viajante em outros países. Nele são registradas entradas e saídas, vistos e autorizações."
+        },
+        {
+            "Pergunta:": "Para que serve o passaporte?",
+            "resp_bot": "Para o solicitante brasileiro: deverá ter feito alistamento eleitoral; ter votado(ou justificado)na última eleição;estar quite com o serviço militar obrigatório;reunir documentos necessários;não ser procurado pela justiça.",
+            "resp_correta": "O passaporte é um Documento de Viagem que identifica o viajante em outros países. Nele são registradas entradas e saídas, vistos e autorizações."
+        },
+        {
+            "Pergunta:": "O que é preciso para conseguir um passaporte?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Para o solicitante brasileiro: deverá ter feito alistamento eleitoral; ter votado(ou justificado)na última eleição;estar quite com o serviço militar obrigatório;reunir documentos necessários;não ser procurado pela justiça."
+        },
+        {
+            "Pergunta:": "Que documentos são exigidos para obter passaporte?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Para o solicitante brasileiro: deverá ter feito alistamento eleitoral; ter votado(ou justificado)na última eleição;estar quite com o serviço militar obrigatório;reunir documentos necessários;não ser procurado pela justiça."
+        },
+        {
+            "Pergunta:": "Qual o preço para conseguir um passaporte?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Taxa comum R$ 257,25; Taxa em casos de urgência e emergência R$ 334,42; Taxa majorada(para renovação de passaporte quando o anterior não é apresentado e não existe ocorrência criminal) R$ 514,50."
+        },
+        {
+            "Pergunta:": "Quanto devo pagar para tirar o passaporte?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Taxa comum R$ 257,25; Taxa em casos de urgência e emergência R$ 334,42; Taxa majorada(para renovação de passaporte quando o anterior não é apresentado e não existe ocorrência criminal) R$ 514,50."
+        },
+        {
+            "Pergunta:": "O que regulamenta o passaporte?",
+            "resp_bot": "Para o solicitante brasileiro: deverá ter feito alistamento eleitoral; ter votado(ou justificado)na última eleição;estar quite com o serviço militar obrigatório;reunir documentos necessários;não ser procurado pela justiça.",
+            "resp_correta": "O Decreto Nº 1.983, de 14 de agosto de 1996, institui, no âmbito do Departamento de Polícia , o Programa de Modernização, Agilização, Aprimoramento e Segurança da Fiscalização do Tráfego Internacional e do Passaporte Brasileiro (PROMASP), e aprova o Regulamento de Documentos de Viagem."
+        },
+        {
+            "Pergunta:": "Qual a lei que regulariza o passaporte?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O Decreto Nº 1.983, de 14 de agosto de 1996, institui, no âmbito do Departamento de Polícia , o Programa de Modernização, Agilização, Aprimoramento e Segurança da Fiscalização do Tráfego Internacional e do Passaporte Brasileiro (PROMASP), e aprova o Regulamento de Documentos de Viagem."
+        },
+        {
+            "Pergunta:": "Qual o órgão competente para expedir o passaporte?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O Departamento de Policia Federal do Ministério da Justiça."
+        },
+        {
+            "Pergunta:": "Onde devo ir para para expedir o passaporte?",
+            "resp_bot": "No Departamento de Policia Federal do Ministério da Justiça.",
+            "resp_correta": "O Departamento de Policia Federal do Ministério da Justiça."
+        },
+        {
+            "Pergunta:": "O passaporte tem validade de quantos anos?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O prazo de validade do passaporte depende da idade do titular, apartir de 18 anos o prazo é de 10 (dez) anos."
+        },
+        {
+            "Pergunta:": "Quanto tempo demora para o passaporte ser emitido?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O passaporte normalmente estará disponível para entrega cerca de 6 (seis) dias úteis após o atendimento presencial de solicitação. Esse prazo pode variar de acordo com a localização."
+        },
+        {
+            "Pergunta:": "Qual é o tempo para entrega do passaporte após a solicitação?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "O passaporte normalmente estará disponível para entrega cerca de 6 (seis) dias úteis após o atendimento presencial de solicitação. Esse prazo pode variar de acordo com a localização."
+        },
+        {
+            "Pergunta:": "Quais documentos são exigidos para obter o passaporte?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Documento de identificação com foto; passaporte anterior , no caso de renovação; fotografia facial recente , tamanho 5X7, colorida; comprovante da situação eleitoral regular; preencher formulário solicitação de passaporte."
+        },
+        {
+            "Pergunta:": "Que documentos devo apresentar para conseguir o passaporte?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Documento de identificação com foto; passaporte anterior , no caso de renovação; fotografia facial recente , tamanho 5X7, colorida; comprovante da situação eleitoral regular; preencher formulário solicitação de passaporte."
+        },
+        {
+            "Pergunta:": "Preciso de passaporte para ir para outro países do MERCOSUL?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Sim, é possivel viajar aos países do MERCOSUL sem passaporte, desde que o viajante esteja em viagem a turismo."
+        },
+        {
+            "Pergunta:": "Eu consigo ir para outro país do MERCOSUL sem passaporte?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Sim, é possivel viajar aos países do MERCOSUL sem passaporte, desde que o viajante esteja em viagem a turismo."
+        },
+        {
+            "Pergunta:": "Posso usar outro passaporte se tiver dupla nacionalidade?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Sim, o brasileiro com dupla nacionalidade pode usar passaporte de outra nacionalidade, para entrar ou sair do Brasil."
+        },
+        {
+            "Pergunta:": "É possivel usar outro passaporte se tiver dupla nacionalidade?",
+            "resp_bot": "Desculpa, ainda não sei responder esta pergunta.",
+            "resp_correta": "Sim, o brasileiro com dupla nacionalidade pode usar passaporte de outra nacionalidade, para entrar ou sair do Brasil."
+        }
+    ]
+}

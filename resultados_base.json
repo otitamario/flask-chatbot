@@ -1,0 +1,29 @@
+{
+    "erros": [
+        {
+            "Pergunta:": "Qual a taxa do passaporte?",
+            "resp_bot": "O passaporte é um Documento de Viagem que identifica o viajante em outros países. Nele são registradas entradas e saídas, vistos e autorizações.",
+            "resp_correta": "Taxa comum R$ 257,25; Taxa em casos de urgência e emergência R$ 334,42; Taxa majorada(para renovação de passaporte quando o anterior não é apresentado e não existe ocorrência criminal) R$ 514,50."
+        },
+        {
+            "Pergunta:": "Qual a taxa do passaporte?",
+            "resp_bot": "O passaporte é um Documento de Viagem que identifica o viajante em outros países. Nele são registradas entradas e saídas, vistos e autorizações.",
+            "resp_correta": "Taxa comum R$ 257,25; Taxa em casos de urgência e emergência R$ 334,42; Taxa majorada(para renovação de passaporte quando o anterior não é apresentado e não existe ocorrência criminal) R$ 514,50."
+        },
+        {
+            "Pergunta:": "Qual a taxa do passaporte?",
+            "resp_bot": "O passaporte é um Documento de Viagem que identifica o viajante em outros países. Nele são registradas entradas e saídas, vistos e autorizações.",
+            "resp_correta": "Taxa comum R$ 257,25; Taxa em casos de urgência e emergência R$ 334,42; Taxa majorada(para renovação de passaporte quando o anterior não é apresentado e não existe ocorrência criminal) R$ 514,50."
+        },
+        {
+            "Pergunta:": "Qual a taxa do passaporte?",
+            "resp_bot": "O passaporte é um Documento de Viagem que identifica o viajante em outros países. Nele são registradas entradas e saídas, vistos e autorizações.",
+            "resp_correta": "Taxa comum R$ 257,25; Taxa em casos de urgência e emergência R$ 334,42; Taxa majorada(para renovação de passaporte quando o anterior não é apresentado e não existe ocorrência criminal) R$ 514,50."
+        },
+        {
+            "Pergunta:": "Qual a taxa do passaporte?",
+            "resp_bot": "O passaporte é um Documento de Viagem que identifica o viajante em outros países. Nele são registradas entradas e saídas, vistos e autorizações.",
+            "resp_correta": "Taxa comum R$ 257,25; Taxa em casos de urgência e emergência R$ 334,42; Taxa majorada(para renovação de passaporte quando o anterior não é apresentado e não existe ocorrência criminal) R$ 514,50."
+        }
+    ]
+}

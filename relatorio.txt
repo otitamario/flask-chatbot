@@ -1,0 +1,16 @@
+RELATÓRIO 
+Total perguntas: 94 
+ Total perguntas Teste: 62 
+Total de Testes: 780 
+  Total Erros: 233 
+Taxa de acertos Total: 70.13
+------------------BASE ORIGINAL---------------------------------------------
+Total de Testes da Base Original: 470 
+  Total Erros: 5 
+
+Taxa de acertos Total Base Original: 98.94
+-----------------BASE TESTE----------------------------------------------
+Total de Testes da Base Teste : 310 
+  Total Erros: 228 
+
+Taxa de acertos Total Base Teste: 26.45
